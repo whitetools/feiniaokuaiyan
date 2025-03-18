@@ -4,7 +4,7 @@ import {JSEncrypt2} from "./rsa公钥解密";
 
 //在这里配置信息  飞鸟快验后台 应用管理->应用编辑->安全设置->复制App设置   复制出的json, 粘贴到下边就可以了 会自动判断加密方式,
 /*const web地址配置 = {
-    "AppWeb": "http://127.0.0.1:18888/Api?AppId=10003",
+    "AppWeb": "http://124.221.116.148:18888/Api?AppId=10002",
     "CryptoKeyAes": "BDVkB7TOfCZQB9MXCloOyUGf",
     "CryptoType": 2
 }*/
